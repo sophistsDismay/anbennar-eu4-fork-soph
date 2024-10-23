@@ -1,0 +1,26 @@
+
+# No previous file for Gwadar 2
+owner = A95
+controller = A95
+add_core = A95
+culture = esmari
+religion = regent_court
+
+hre = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+trade_goods = grain
+
+capital = ""
+
+is_city = yes
+fort_15th = yes 
+
+
+
+
+
+
